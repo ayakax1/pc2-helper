@@ -27,7 +27,7 @@ import telebot
 # не нужно хранить в коде, задаются в панели Render (или локально в .env).
 # Если переменные не заданы — используются значения-заглушки ниже (для
 # локального запуска можно вписать их прямо сюда).
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8975257839:AAFBB3NysN5lU_N-nOncKgO8dkG5kXs0EUM")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8975257839:AAE2wzFeReaMpaB2m1syAeyHRFO-4hX-OQo")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "8847038707"))
 
 WELCOME_TEXT = (
